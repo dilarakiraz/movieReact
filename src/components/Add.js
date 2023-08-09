@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
+import React, {  useState } from 'react'
 import ResultCard from './ResultCard';
 
 
-const Add = () => {
 
+const Add = () => {
   const[query,setQuery] = useState("");
   const[results,setResults] = useState([]);
   //console.log(query);
@@ -25,6 +25,7 @@ const Add = () => {
           <div className='titles'>
             <h1>Hoş Geldiniz</h1>
             <h2>Türkiye'nin en iyi film sitesi</h2> 
+            
           </div>
           <div className='input-wrapper'>
             <input 

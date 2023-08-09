@@ -5,9 +5,11 @@ import Watchlist from './components/Watchlist';
 import Watched from './components/Watched';
 import "./lib/fontawesome/fontawesome-free-6.4.2-web/css/all.min.css";
 import Add from './components/Add';
+import { GlobalProvider } from './context/GlobalState';
 
 function App() {
   return (
+    <GlobalProvider>
     <div className="App">
       <Router>
         <Header />
@@ -18,6 +20,8 @@ function App() {
         </Routes>
       </Router>
     </div>
+    </GlobalProvider>
+
   );
 }
 
