@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import ResultCard from './ResultCard';
 
 
 const Add = () => {
@@ -33,9 +34,15 @@ const Add = () => {
             placeholder='Film ara..'></input>
           </div>
 
-          {results.map((movie) => (
-            <h1 >{movie.title} </h1>
-          ))}
+          {results.length > 0 && (
+            <ul className="results">
+              {results.map((movie) => (
+                <li key={movie.id}>
+                  <ResultCard movie={movie} />
+                </li>
+              ))}
+            </ul>
+          )}
         </div>
       </div>
     </div>
