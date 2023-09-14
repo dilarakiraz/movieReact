@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Ekran Görüntüsü (11)](https://github.com/dilarakiraz/movieReact/assets/76565172/6373417c-9e5a-4cfd-9f88-e736e8ac6380)
+![Ekran görüntüsü 2023-08-01 104758](https://github.com/dilarakiraz/movieReact/assets/76565172/2c777b95-286d-435e-ae3b-4473b22c791f)
+![Ekran Görüntüsü (9)](https://github.com/dilarakiraz/movieReact/assets/76565172/f7a38d01-f105-4c8a-af99-9e79045ca9f1)
+![Ekran Görüntüsü (8)](https://github.com/dilarakiraz/movieReact/assets/76565172/b88f126c-2563-4f6e-9cd0-47a065c5d6b5)
+![Ekran görüntüsü 2023-08-01 104845](https://github.com/dilarakiraz/movieReact/assets/76565172/7be9469c-47a5-4da2-8646-333cdb782d24)
+![Ekran görüntüsü 2023-08-01 104918](https://github.com/dilarakiraz/movieReact/assets/76565172/11ed12f8-208f-4c15-a1b3-5f574755ec43)
+![Ekran görüntüsü 2023-08-01 104930](https://github.com/dilarakiraz/movieReact/assets/76565172/a125cbdf-79cb-43ba-b242-e6b03c797e02)
+![Ekran görüntüsü 2023-08-01 104949](https://github.com/dilarakiraz/movieReact/assets/76565172/0d4bc65f-9020-45b7-a0d5-47e96ac42abd)
+![Ekran görüntüsü 2023-08-01 104959](https://github.com/dilarakiraz/movieReact/assets/76565172/8018482f-6896-45db-83fb-69f5d10c22f2)
+![Ekran Görüntüsü (10)](https://github.com/dilarakiraz/movieReact/assets/76565172/0e1b97e4-0e7d-4a2e-910b-f54809eb6adb)
